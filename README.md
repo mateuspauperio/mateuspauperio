@@ -21,7 +21,7 @@ An AWS architecture generator built with PHP. Transforms project descriptions in
 
 **Technologies:** PHP, AWS, Terraform, Tailwind CSS.
 
-### [Bitcoin Time Series Analysis](https://github.com/AWS-SBG-Senai-Cimatec/series-temporais-bitcoin)
+### [Bitcoin Time Series Analysis](https://github.com/mateuspauperio/series-temporais-bitcoin.git)
 A Machine Learning project comparing different forecasting techniques using historical Bitcoin price data.
 
 **Technologies:** Python, Scikit-learn, Jupyter Notebook, Streamlit.
